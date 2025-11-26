@@ -1,8 +1,8 @@
 {
   "status": "ON",
   "password": "RUMAN21",
+  "expiry_date": "2026-12-31 23:59:59", 
   "user_count": "0",
-  "maintenance": "OFF",
-  "version": "2.1",
-  "message": "Welcome to FF Ruman online server. Use bypass safely during lobby or training."
+  "maintenance": "false",
+  "maintenance_message": "🔧 Server under maintenance"
 }
