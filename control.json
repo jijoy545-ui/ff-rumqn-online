@@ -1,7 +1,7 @@
 {
-  "status": "of",
+  "status": "ON",
   "password": "RUMAN",
-  "expiry_date": "999:8873;378", 
+  "expiry_date": "999", 
   "user_count": "1000",
   "maintenance": "false",
   "maintenance_message": "🔧 Server under maintenance"
